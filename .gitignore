@@ -1,0 +1,25 @@
+# Model & results
+model/
+results/
+
+# Dataset
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
